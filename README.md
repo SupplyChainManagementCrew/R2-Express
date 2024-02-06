@@ -1,5 +1,5 @@
 # R2-Express
 
-## install express
+- install express
 
-## .gitignore
+- .gitignore
